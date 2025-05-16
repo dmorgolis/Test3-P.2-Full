@@ -1,0 +1,51 @@
+id,item_name,item_category,item_price,stock_quantity,item_brand,item_availability
+26,Action Camera,Photography Equipment,2694.25,,Bose,FALSE
+37,Antivirus Software,Software,4186.62,,,FALSE
+11,Blu-Ray Player,Video Players and Recorders,3382.86,704,ASUS,TRUE
+25,Camcorder,Photography Equipment,860.01,870,Bose,TRUE
+7,Camera,Photography Equipment,2366.72,458,Microsoft,TRUE
+48,Camera,Photography Equipment,2039.08,471,Panasonic,TRUE
+28,Camera,,695.71,,Sony,FALSE
+18,Computer Monitor,Computers and Accessories,4076.35,1205,Bose,TRUE
+27,Dash Camera,Photography Equipment,1283.99,550,Lenovo,TRUE
+3,Desktop,Computers and Accessories,1121.84,334,HP,TRUE
+44,Desktop,Computers and Accessories,723.59,1119,JBL,TRUE
+24,Drone,Televisions and Displays,4449.99,443,Samsung,TRUE
+16,Drone,,3949.97,850,,TRUE
+10,Drone,Televisions and Displays,453.85,605,,TRUE
+21,External Hard Drive,Computers and Accessories,1251.36,1013,Microsoft,TRUE
+15,Fitness Tracker,Mobile Devices and Accessories,2997.29,956,Apple,TRUE
+30,Gaming Chair,Gaming Equipment,417.16,704,Samsung,TRUE
+34,HDMI Cable,Cables,1710.84,869,JBL,TRUE
+8,Headphone,,3117.19,599,,TRUE
+49,Headphone,Audio Equipment,1317.56,,Sony,FALSE
+19,Keyboard,Computers and Accessories,604.18,,Panasonic,FALSE
+2,Laptop,Computers and Accessories,1851.32,493,HP,TRUE
+43,Laptop,Computers and Accessories,4153.61,1018,Dell,TRUE
+23,Micro SD Card,Storage Devices,3238.23,663,Sony,TRUE
+36,Modem,,3256.88,673,Bose,TRUE
+20,Mouse,Computers and Accessories,1333.04,881,Logitech,TRUE
+38,Office Software,Printers and Office Equipment,3454.82,643,JBL,TRUE
+32,Portable Charger,Mobile Devices and Accessories,1523.27,192,HP,TRUE
+39,Power Strip,Printers and Office Equipment,3344.9,1211,HP,TRUE
+6,Printer,Printers and Office Equipment,4175.99,971,Sony,TRUE
+47,Printer,Printers and Office Equipment,3704.16,239,Toshiba,TRUE
+17,Smart Watch,Televisions and Displays,312.88,685,Canon,TRUE
+14,Smart Watch,,2007.43,742,,TRUE
+4,Smartphone,Mobile Devices and Accessories,965.2,201,Bose,TRUE
+45,Smartphone,Mobile Devices and Accessories,3513.56,1162,Panasonic,TRUE
+9,Speaker,,4471.27,1360,,TRUE
+50,Speaker,Audio Equipment,4453.9,937,Logitech,TRUE
+33,Surge Protector,Printers and Office Equipment,488.39,800,ASUS,TRUE
+5,Tablet,,2739.61,190,Toshiba,TRUE
+46,Tablet,Mobile Devices and Accessories,1606.65,267,HP,TRUE
+1,Television,Televisions and Displays,356.81,1009,JBL,TRUE
+42,Television,,479.19,670,,TRUE
+40,Television,Televisions and Displays,2055.66,1072,,TRUE
+22,USB Flash Drive,,1150.87,1251,Panasonic,TRUE
+13,Video Game,,1890.03,681,Lenovo,TRUE
+12,Video Game Console,Gaming Equipment,689.61,753,Microsoft,TRUE
+41,VR Headset,,1905.01,1367,JBL,TRUE
+29,Webcam,Printers and Office Equipment,4227.36,596,Dell,TRUE
+35,Wi-Fi Router,Network Equipment,3812.53,14,Microsoft,TRUE
+31,Wireless Charger,Mobile Devices and Accessories,241.54,951,Lenovo,TRUE
